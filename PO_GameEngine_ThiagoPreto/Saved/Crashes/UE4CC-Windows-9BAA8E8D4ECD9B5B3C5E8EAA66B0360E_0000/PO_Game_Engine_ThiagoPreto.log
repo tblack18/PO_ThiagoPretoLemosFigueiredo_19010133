@@ -1,0 +1,1075 @@
+﻿Log file open, 08/24/21 23:44:19
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: PO_Game_Engine_ThiagoPreto
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.219159
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/Black/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 3500X 6-Core Processor             , GPU: NVIDIA GeForce GTX 1650 SUPER
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Black/Desktop/PO_ThiagoPretoLemosFigueiredo_19010133/PO_GameEngine_ThiagoPreto/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.08.25-02.44.20:030][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.08.25-02.44.20:030][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.08.25-02.44.20:030][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Black/Desktop/PO_ThiagoPretoLemosFigueiredo_19010133/PO_GameEngine_ThiagoPreto/Saved/Config/Windows/Engine.ini]
+[2021.08.25-02.44.20:030][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.08.25-02.44.20:030][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2021.08.25-02.44.20:030][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:1]]
+[2021.08.25-02.44.20:030][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:1]]
+[2021.08.25-02.44.20:030][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Black/Desktop/PO_ThiagoPretoLemosFigueiredo_19010133/PO_GameEngine_ThiagoPreto/Saved/Config/Windows/Engine.ini]
+[2021.08.25-02.44.20:030][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Black/Desktop/PO_ThiagoPretoLemosFigueiredo_19010133/PO_GameEngine_ThiagoPreto/Saved/Config/Windows/Engine.ini]
+[2021.08.25-02.44.20:030][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.08.25-02.44.20:030][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.08.25-02.44.20:030][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.08.25-02.44.20:030][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.08.25-02.44.20:030][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.08.25-02.44.20:030][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.08.25-02.44.20:030][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.08.25-02.44.20:030][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.08.25-02.44.20:030][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.08.25-02.44.20:030][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.08.25-02.44.20:030][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.08.25-02.44.20:030][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.08.25-02.44.20:030][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.08.25-02.44.20:030][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.08.25-02.44.20:030][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Black/Desktop/PO_ThiagoPretoLemosFigueiredo_19010133/PO_GameEngine_ThiagoPreto/Saved/Config/Windows/Engine.ini]
+[2021.08.25-02.44.20:030][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.08.25-02.44.20:030][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.08.25-02.44.20:030][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.08.25-02.44.20:030][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.08.25-02.44.20:030][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.08.25-02.44.20:030][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.08.25-02.44.20:030][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.08.25-02.44.20:030][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.08.25-02.44.20:030][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.08.25-02.44.20:030][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.08.25-02.44.20:030][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.08.25-02.44.20:030][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.08.25-02.44.20:030][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.08.25-02.44.20:030][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.08.25-02.44.20:030][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Black/Desktop/PO_ThiagoPretoLemosFigueiredo_19010133/PO_GameEngine_ThiagoPreto/Saved/Config/Windows/Engine.ini]
+[2021.08.25-02.44.20:031][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Black/Desktop/PO_ThiagoPretoLemosFigueiredo_19010133/PO_GameEngine_ThiagoPreto/Saved/Config/Windows/Engine.ini]
+[2021.08.25-02.44.20:034][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Black/Desktop/PO_ThiagoPretoLemosFigueiredo_19010133/PO_GameEngine_ThiagoPreto/Saved/Config/Windows/Scalability.ini]
+[2021.08.25-02.44.20:034][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.25-02.44.20:034][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.25-02.44.20:034][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Black/Desktop/PO_ThiagoPretoLemosFigueiredo_19010133/PO_GameEngine_ThiagoPreto/Saved/Config/Windows/Scalability.ini]
+[2021.08.25-02.44.20:034][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.25-02.44.20:034][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Black/Desktop/PO_ThiagoPretoLemosFigueiredo_19010133/PO_GameEngine_ThiagoPreto/Saved/Config/Windows/Scalability.ini]
+[2021.08.25-02.44.20:034][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.25-02.44.20:034][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.25-02.44.20:034][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.25-02.44.20:034][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.25-02.44.20:034][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.25-02.44.20:034][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.25-02.44.20:034][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.25-02.44.20:034][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.25-02.44.20:034][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.25-02.44.20:034][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.25-02.44.20:034][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.25-02.44.20:034][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.25-02.44.20:034][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.25-02.44.20:034][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.25-02.44.20:034][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.25-02.44.20:034][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.25-02.44.20:034][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.25-02.44.20:034][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.25-02.44.20:034][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Black/Desktop/PO_ThiagoPretoLemosFigueiredo_19010133/PO_GameEngine_ThiagoPreto/Saved/Config/Windows/Scalability.ini]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Black/Desktop/PO_ThiagoPretoLemosFigueiredo_19010133/PO_GameEngine_ThiagoPreto/Saved/Config/Windows/Scalability.ini]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Black/Desktop/PO_ThiagoPretoLemosFigueiredo_19010133/PO_GameEngine_ThiagoPreto/Saved/Config/Windows/Scalability.ini]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Black/Desktop/PO_ThiagoPretoLemosFigueiredo_19010133/PO_GameEngine_ThiagoPreto/Saved/Config/Windows/Scalability.ini]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Black/Desktop/PO_ThiagoPretoLemosFigueiredo_19010133/PO_GameEngine_ThiagoPreto/Saved/Config/Windows/Scalability.ini]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.25-02.44.20:035][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.25-02.44.20:035][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.25-02.44.20:035][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.08.25-02.44.20:035][  0]LogHAL: Display: Platform has ~ 16 GB [17127497728 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.08.25-02.44.20:035][  0]LogInit: Going up to parent DeviceProfile []
+[2021.08.25-02.44.20:036][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Black/Desktop/PO_ThiagoPretoLemosFigueiredo_19010133/PO_GameEngine_ThiagoPreto/Saved/Config/Windows/Scalability.ini]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Black/Desktop/PO_ThiagoPretoLemosFigueiredo_19010133/PO_GameEngine_ThiagoPreto/Saved/Config/Windows/Scalability.ini]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Black/Desktop/PO_ThiagoPretoLemosFigueiredo_19010133/PO_GameEngine_ThiagoPreto/Saved/Config/Windows/Scalability.ini]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Black/Desktop/PO_ThiagoPretoLemosFigueiredo_19010133/PO_GameEngine_ThiagoPreto/Saved/Config/Windows/Scalability.ini]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Black/Desktop/PO_ThiagoPretoLemosFigueiredo_19010133/PO_GameEngine_ThiagoPreto/Saved/Config/Windows/Scalability.ini]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Black/Desktop/PO_ThiagoPretoLemosFigueiredo_19010133/PO_GameEngine_ThiagoPreto/Saved/Config/Windows/Scalability.ini]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.25-02.44.20:036][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.25-02.44.20:037][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.25-02.44.20:037][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.25-02.44.20:037][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.25-02.44.20:037][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.25-02.44.20:037][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.25-02.44.20:037][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.25-02.44.20:037][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.25-02.44.20:037][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.25-02.44.20:037][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.25-02.44.20:037][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.25-02.44.20:037][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.25-02.44.20:037][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.25-02.44.20:037][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Black/Desktop/PO_ThiagoPretoLemosFigueiredo_19010133/PO_GameEngine_ThiagoPreto/Saved/Config/Windows/Scalability.ini]
+[2021.08.25-02.44.20:037][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.25-02.44.20:037][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.25-02.44.20:037][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Black/Desktop/PO_ThiagoPretoLemosFigueiredo_19010133/PO_GameEngine_ThiagoPreto/Saved/Config/Windows/Scalability.ini]
+[2021.08.25-02.44.20:037][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.25-02.44.20:037][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.25-02.44.20:037][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.25-02.44.20:037][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.08.25-02.44.20:037][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.08.25-02.44.20:038][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.08.25-02.44.20:038][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.08.25-02.44.20:038][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Black/Desktop/PO_ThiagoPretoLemosFigueiredo_19010133/PO_GameEngine_ThiagoPreto/Saved/Config/Windows/Engine.ini]
+[2021.08.25-02.44.20:038][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Black/Desktop/PO_ThiagoPretoLemosFigueiredo_19010133/PO_GameEngine_ThiagoPreto/Saved/Config/Windows/Editor.ini]
+[2021.08.25-02.44.20:038][  0]LogInit: Computer: DESKTOP-FGEEPM2
+[2021.08.25-02.44.20:038][  0]LogInit: User: Black
+[2021.08.25-02.44.20:038][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.08.25-02.44.20:038][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.08.25-02.44.20:038][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2021.08.25-02.44.20:038][  0]LogMemory: Platform Memory Stats for Windows
+[2021.08.25-02.44.20:038][  0]LogMemory: Process Physical Memory: 134.99 MB used, 134.99 MB peak
+[2021.08.25-02.44.20:038][  0]LogMemory: Process Virtual Memory: 109.08 MB used, 109.08 MB peak
+[2021.08.25-02.44.20:038][  0]LogMemory: Physical Memory: 5518.01 MB used,  10816.04 MB free, 16334.05 MB total
+[2021.08.25-02.44.20:038][  0]LogMemory: Virtual Memory: 134205520.00 MB used,  12210.93 MB free, 134217728.00 MB total
+[2021.08.25-02.44.20:044][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.08.25-02.44.20:085][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.08.25-02.44.20:087][  0]LogInit: Overriding language with editor language configuration option (en).
+[2021.08.25-02.44.20:087][  0]LogInit: Overriding language with editor locale configuration option (en).
+[2021.08.25-02.44.20:259][  0]LogInit: Setting process to per monitor DPI aware
+[2021.08.25-02.44.20:269][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.25-02.44.20:281][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.08.25-02.44.20:281][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.08.25-02.44.20:407][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.25-02.44.20:408][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.08.25-02.44.20:408][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.08.25-02.44.20:408][  0]LogD3D11RHI: D3D11 adapters:
+[2021.08.25-02.44.20:516][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650 SUPER' (Feature Level 11_0)
+[2021.08.25-02.44.20:516][  0]LogD3D11RHI:       3955/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.08.25-02.44.20:518][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.08.25-02.44.20:518][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.08.25-02.44.20:518][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.08.25-02.44.20:523][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.08.25-02.44.20:523][  0]LogD3D11RHI:     GPU DeviceId: 0x2187 (for the marketing name, search the web for "GPU Device Id")
+[2021.08.25-02.44.20:523][  0]LogWindows: EnumDisplayDevices:
+[2021.08.25-02.44.20:524][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1650 SUPER' (P:1 D:1)
+[2021.08.25-02.44.20:524][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1650 SUPER' (P:0 D:0)
+[2021.08.25-02.44.20:524][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1650 SUPER' (P:0 D:0)
+[2021.08.25-02.44.20:524][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650 SUPER' (P:0 D:0)
+[2021.08.25-02.44.20:524][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.08.25-02.44.20:524][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650 SUPER
+[2021.08.25-02.44.20:524][  0]LogD3D11RHI:   Driver Version: 471.68 (internal:30.0.14.7168, unified:471.68)
+[2021.08.25-02.44.20:524][  0]LogD3D11RHI:      Driver Date: 8-5-2021
+[2021.08.25-02.44.20:524][  0]LogRHI: Texture pool is 2768 MB (70% of 3955 MB)
+[2021.08.25-02.44.20:607][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.08.25-02.44.20:607][  0]LogD3D11RHI: Async texture creation enabled
+[2021.08.25-02.44.20:607][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.08.25-02.44.20:625][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.08.25-02.44.20:627][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.08.25-02.44.20:916][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.08.25-02.44.20:938][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.08.25-02.44.20:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.08.25-02.44.20:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.08.25-02.44.20:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.08.25-02.44.20:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.08.25-02.44.20:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.08.25-02.44.20:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.08.25-02.44.20:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.08.25-02.44.20:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.08.25-02.44.20:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.08.25-02.44.20:964][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.08.25-02.44.20:965][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.08.25-02.44.20:975][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.08.25-02.44.20:985][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.08.25-02.44.20:994][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.08.25-02.44.21:003][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.08.25-02.44.21:013][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.08.25-02.44.21:022][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.08.25-02.44.21:031][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.08.25-02.44.21:059][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.08.25-02.44.21:059][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.08.25-02.44.21:068][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.08.25-02.44.21:077][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.08.25-02.44.21:086][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.08.25-02.44.21:095][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.08.25-02.44.21:110][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.08.25-02.44.21:110][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.08.25-02.44.21:120][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.08.25-02.44.21:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.08.25-02.44.21:139][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.08.25-02.44.21:148][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.08.25-02.44.21:148][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.08.25-02.44.21:155][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.08.25-02.44.21:213][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.08.25-02.44.21:213][  0]LogShaderCompilers: Guid format shader working directory is -55 characters bigger than the processId version (../../../../../../Users/Black/Desktop/PO_ThiagoPretoLemosFigueiredo_19010133/PO_GameEngine_ThiagoPreto/Intermediate/Shaders/WorkingDirectory/580/).
+[2021.08.25-02.44.21:213][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Black/AppData/Local/Temp/UnrealShaderWorkingDir/F0A6BD5B48D8CA58CAF53996124B085A/'.
+[2021.08.25-02.44.21:213][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.08.25-02.44.21:213][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.08.25-02.44.21:920][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.08.25-02.44.21:965][  0]LogDerivedDataCache: Loaded boot cache 0.04s 77MB C:/Users/Black/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.25-02.44.21:965][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Black/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.08.25-02.44.21:965][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Black/Desktop/PO_ThiagoPretoLemosFigueiredo_19010133/PO_GameEngine_ThiagoPreto/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.08.25-02.44.21:965][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.08.25-02.44.21:965][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Black/Desktop/PO_ThiagoPretoLemosFigueiredo_19010133/PO_GameEngine_ThiagoPreto/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.25-02.44.21:965][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.08.25-02.44.21:978][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.08.25-02.44.21:978][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.25-02.44.21:978][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.08.25-02.44.21:988][  0]LogDerivedDataCache: Speed tests for C:/Users/Black/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.08.25-02.44.21:988][  0]LogDerivedDataCache: Display: Performance to C:/Users/Black/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=375.28MBs, RandomWriteSpeed=133.17MBs. Assigned SpeedClass 'Local'
+[2021.08.25-02.44.21:989][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Black/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.08.25-02.44.21:989][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.08.25-02.44.21:989][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.08.25-02.44.22:039][  0]LogSlate: Using FreeType 2.10.0
+[2021.08.25-02.44.22:039][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.08.25-02.44.22:061][  0]LogAssetRegistry: FAssetRegistry took 0.0031 seconds to start up
+[2021.08.25-02.44.22:223][  0]LogCollisionProfile: Warning: Profile (Pawn) - Custom Channel Name = 'Grabbable' hasn't been found
+[2021.08.25-02.44.22:223][  0]LogCollisionProfile: Warning: Profile (Spectator) - Custom Channel Name = 'Grabbable' hasn't been found
+[2021.08.25-02.44.22:223][  0]LogCollisionProfile: Warning: Profile (CharacterMesh) - Custom Channel Name = 'Grabbable' hasn't been found
+[2021.08.25-02.44.22:223][  0]LogCollisionProfile: Warning: Profile (InvisibleWall) - Custom Channel Name = 'Grabbable' hasn't been found
+[2021.08.25-02.44.22:223][  0]LogCollisionProfile: Warning: Profile (InvisibleWallDynamic) - Custom Channel Name = 'Grabbable' hasn't been found
+[2021.08.25-02.44.22:223][  0]LogCollisionProfile: Warning: Profile (Trigger) - Custom Channel Name = 'Grabbable' hasn't been found
+[2021.08.25-02.44.22:223][  0]LogCollisionProfile: Warning: Profile (Ragdoll) - Custom Channel Name = 'Grabbable' hasn't been found
+[2021.08.25-02.44.22:223][  0]LogCollisionProfile: Warning: Profile (UI) - Custom Channel Name = 'Grabbable' hasn't been found
+[2021.08.25-02.44.22:223][  0]LogCollisionProfile: Warning: Profile (ALS_Character) - Custom Channel Name = 'Grabbable' hasn't been found
+[2021.08.25-02.44.22:223][  0]LogCollisionProfile: Warning: Profile (ALS_Prop) - Custom Channel Name = 'Grabbable' hasn't been found
+[2021.08.25-02.44.22:285][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.25-02.44.22:285][  0]LogInit: Active device profile: [0000026112A02100][000002610C522FC0 49] Windows
+[2021.08.25-02.44.22:285][  0]LogInit: Profiles: [0000026112A02100][000002610C522FC0 49] Windows, [0000026112987600][0000026111395140 49] WindowsNoEditor, [0000026112A00600][00000261113992C0 49] WindowsServer, [0000026112984C00][00000261113A1440 49] WindowsClient, [0000026112A03200][0000026110CEB5C0 49] IOS, [0000026112985600][0000026111377700 49] iPadAir, [0000026112A01100][0000026110CEF840 49] iPadAir2, [00000261142BF300][0000026110CF7A80 49] IPadPro, [00000261142BF400][0000026110CF3AC0 49] iPadAir3, [0000026112A02B00][0000026110CFFC40 49] iPadAir4, [00000261142BE900][0000026110D02100 49] iPadMini2, [0000026112A00C00][0000026110D2A280 49] iPadMini3, [00000261142BD700][0000026110DA2400 49] iPadMini4, [0000026112A02E00][0000026110F22580 49] iPadMini5, [00000261142FEC00][0000026110F72840 49] iPhone6, [00000261142FED00][0000026110F54880 49] iPodTouch6, [0000026112984A00][0000026110FACB40 49] iPhone7, [0000026112986C00][0000026110F8EB80 49] iPodTouch7, [00000261142FE700][00000261107B8D00 49] iPhone5S, [0000026112984300][00000261107CCE80 49] iPhone6Plus, [00000261142FD100][00000261107D1000 49] iPhone6S, [0000026112985B00][00000261107D5180 49] iPhone6SPlus, [00000261142FEB00][00000261107DD300 49] iPhone7Plus, [0000026112984B00][00000261108D9480 49] iPhoneSE, [00000261142FE300][00000261108DD600 49] iPhone8, [0000026112985C00][00000261108E1780 49] iPhone8Plus, [00000261142FE200][0000026110CFB8C0 49] iPhoneX, [0000026112984200][00000261108F3A00 49] iPhoneXS, [00000261142FC700][00000261108FFB40 49] iPhoneXSMax, [0000026112987500][0000026110907CC0 49] iPhoneXR, [00000261142FEE00][000002611090A180 49] iPhone11, [0000026112986A00][000002611091A300 49] iPhone11Pro, [00000261142FFC00][000002611091E480 49] iPhone11ProMax, [0000026112986200][0000026110922600 49] iPhoneSE2, [00000261142FDC00][0000026110926780 49] iPhone12Mini, [0000026112987200][000002611092A900 49] iPhone12, [00000261142FD500][000002611092EA80 49] iPhone12Pro, [0000026112987C00][0000026110932C00 49] iPhone12ProMax, [00000261142FC600][0000026110936D80 49] iPadPro105, [0000026112987A00][000002611093AF00 49] iPadPro129, [0000026112987F00][000002611093F080 49] iPadPro97, [0000026112987D00][0000026110943200 49] iPadPro2_129, [0000026112986F00][0000026110947380 49] iPad5, [0000026112A02000][000002611096B500 49] iPad6, [00000261142FC400][000002611096F680 49] iPad7, [0000026112A02200][0000026110973800 49] iPad8, [00000261142FCF00][0000026110903940 49] iPadPro11, [0000026112A01E00][0000026110977A80 49] iPadPro2_11, [00000261142FD600][000002611097BBC0 49] iPadPro3_129, [0000026112A03700][000002611097FD00 49] iPadPro4_129, [00000261142FF400][00000261109861C0 49] AppleTV, [0000026112A01900][000002611098A340 49] AppleTV4K, [00000261142FD900][000002611098E4C0 49] TVOS, [0000026112A03300][0000026110992640 49] Mac, [00000261142FE500][00000261109967C0 49] MacClient, [0000026112A01300][000002611099A940 49] MacNoEditor, [00000261142FD300][000002611099EAC0 49] MacServer, [0000026112A00A00][00000261109A2C40 49] Linux, [00000261142FCC00][00000261109A6DC0 49] LinuxAArch64, [0000026112A01200][00000261109AAF40 49] LinuxNoEditor, [00000261142FF200][00000261109AF0C0 49] LinuxAArch64NoEditor, [0000026112A02900][00000261109B3240 49] LinuxClient, [00000261142FEF00][00000261109B73C0 49] LinuxAArch64Client, [0000026112A00F00][00000261109BB540 49] LinuxServer, [00000261142FF700][00000261109BF6C0 49] LinuxAArch64Server, [0000026112A01F00][00000261109C3840 49] Android, [00000261142FCA00][0000026110983980 49] Android_Low, [0000026112A00900][00000261109C7AC0 49] Android_Mid, [00000261142FF800][00000261109CBC00 49] Android_High, [0000026112A03900][00000261109CFD40 49] Android_Default, [00000261142FDA00][00000261109D6200 49] Android_Adreno4xx, [0000026112A03600][0000026110A16380 49] Android_Adreno5xx_Low, [00000261142FF500][0000026110A1A500 49] Android_Adreno5xx, [0000026112A00500][0000026110A1E680 49] Android_Adreno6xx, [00000261142FC800][0000026110A22800 49] Android_Adreno6xx_Vulkan, [0000026112A00D00][0000026110A26980 49] Android_Mali_T6xx, [00000261142FCD00][0000026110A2AB00 49] Android_Mali_T7xx, [0000026112A02D00][0000026110A2EC80 49] Android_Mali_T8xx, [00000261142FEA00][0000026110A32E00 49] Android_Mali_G71, [0000026112A01B00][0000026110A36F80 49] Android_Mali_G72, [00000261142FE600][0000026110A3B100 49] Android_Mali_G72_Vulkan, [0000026112A03A00][0000026110A3F280 49] Android_Mali_G76, [00000261142FF900][0000026110A43400 49] Android_Mali_G76_Vulkan, [0000026112A02300][0000026110A47580 49] Android_Mali_G77, [00000261142FC900][0000026110A4B700 49] Android_Mali_G77_Vulkan, [0000026112A00200][0000026110A4F880 49] Android_Vulkan_SM5, [00000261142FD800][0000026110A53A00 49] Android_PowerVR_G6xxx, [0000026112A01500][00000261109D3B40 49] Android_PowerVR_GT7xxx, [00000261142FCB00][0000026110A57C80 49] Android_PowerVR_GE8xxx, [0000026112986700][0000026110A5A100 49] Android_PowerVR_GM9xxx, [00000261142BC600][0000026110A62280 49] Android_PowerVR_GM9xxx_Vulkan, [0000026112984400][0000026110A66400 49] Android_TegraK1, [00000261142BC100][0000026110A6A580 49] Android_Unknown_Vulkan, [0000026112985000][0000026110A6E700 49] Lumin, [00000261142BDC00][0000026110A72880 49] Lumin_Desktop, [0000026112984700][0000026110A76A00 49] HoloLens, 
+[2021.08.25-02.44.22:327][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.08.25-02.44.22:327][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.08.25-02.44.22:327][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.08.25-02.44.22:327][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.08.25-02.44.22:327][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.08.25-02.44.22:401][  0]LogNetVersion: PO_Game_Engine_ThiagoPreto 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3407676955)
+[2021.08.25-02.44.22:789][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.08.25-02.44.22:827][  0]LogPackageLocalizationCache: Processed 24 localized package path(s) for 1 prioritized culture(s) in 0.037309 seconds
+[2021.08.25-02.44.22:833][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.08.25-02.44.22:833][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.08.25-02.44.22:833][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.08.25-02.44.23:059][  0]LogPython: Using Python 3.7.7
+[2021.08.25-02.44.23:867][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.08.25-02.44.23:872][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.08.25-02.44.24:037][  0]SourceControl: Source control is disabled
+[2021.08.25-02.44.24:037][  0]SourceControl: Source control is disabled
+[2021.08.25-02.44.24:040][  0]SourceControl: Source control is disabled
+[2021.08.25-02.44.24:043][  0]SourceControl: Source control is disabled
+[2021.08.25-02.44.24:051][  0]SourceControl: Source control is disabled
+[2021.08.25-02.44.24:123][  0]LogUProjectInfo: Found projects:
+[2021.08.25-02.44.24:130][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.08.25-02.44.24:130][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.08.25-02.44.24:335][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.08.25-02.44.24:366][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.25-02.44.24:366][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.25-02.44.24:460][  0]LogCollectionManager: Loaded 0 collections in 0.002201 seconds
+[2021.08.25-02.44.24:488][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Black/Desktop/PO_ThiagoPretoLemosFigueiredo_19010133/PO_GameEngine_ThiagoPreto/Saved/Collections/' took 0.00s
+[2021.08.25-02.44.24:488][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Black/Desktop/PO_ThiagoPretoLemosFigueiredo_19010133/PO_GameEngine_ThiagoPreto/Content/Developers/Black/Collections/' took 0.00s
+[2021.08.25-02.44.24:488][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Black/Desktop/PO_ThiagoPretoLemosFigueiredo_19010133/PO_GameEngine_ThiagoPreto/Content/Collections/' took 0.00s
+[2021.08.25-02.44.24:488][  0]LogOcInput: OculusInput pre-init called
+[2021.08.25-02.44.24:503][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.08.25-02.44.24:503][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.08.25-02.44.24:827][  0]LogEngine: Initializing Engine...
+[2021.08.25-02.44.24:828][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.25-02.44.24:828][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.08.25-02.44.24:828][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.08.25-02.44.24:919][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.08.25-02.44.24:929][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.08.25-02.44.24:937][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.08.25-02.44.24:940][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.08.25-02.44.24:940][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.08.25-02.44.24:940][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.25-02.44.24:940][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.25-02.44.24:940][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.25-02.44.24:940][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.25-02.44.24:940][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.25-02.44.24:940][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.25-02.44.24:940][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.25-02.44.24:940][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.25-02.44.24:941][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.25-02.44.24:941][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.25-02.44.24:954][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.25-02.44.24:954][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.08.25-02.44.25:005][  0]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek High Definition Audio)
+[2021.08.25-02.44.25:009][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.25-02.44.25:010][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.25-02.44.25:010][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.25-02.44.25:011][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.25-02.44.25:011][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.25-02.44.25:011][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.25-02.44.25:012][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.25-02.44.25:012][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.25-02.44.25:012][  0]LogInit: FAudioDevice initialized.
+[2021.08.25-02.44.25:012][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.08.25-02.44.25:012][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.08.25-02.44.25:144][  0]LogDerivedDataCache: Saved boot cache 0.13s 77MB C:/Users/Black/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.25-02.44.25:144][  0]LogInit: Texture streaming: Enabled
+[2021.08.25-02.44.25:156][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.08.25-02.44.25:159][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.08.25-02.44.25:159][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.08.25-02.44.25:198][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.08.25-02.44.25:223][  0]LogInit: Transaction tracking system initialized
+[2021.08.25-02.44.25:244][  0]BlueprintLog: New page: Editor Load
+[2021.08.25-02.44.25:315][  0]LocalizationService: Localization service is disabled
+[2021.08.25-02.44.25:339][  0]TimingProfiler: Initialize
+[2021.08.25-02.44.25:339][  0]TimingProfiler: OnSessionChanged
+[2021.08.25-02.44.25:339][  0]LoadingProfiler: Initialize
+[2021.08.25-02.44.25:339][  0]LoadingProfiler: OnSessionChanged
+[2021.08.25-02.44.25:339][  0]NetworkingProfiler: Initialize
+[2021.08.25-02.44.25:339][  0]NetworkingProfiler: OnSessionChanged
+[2021.08.25-02.44.25:339][  0]MemoryProfiler: Initialize
+[2021.08.25-02.44.25:339][  0]MemoryProfiler: OnSessionChanged
+[2021.08.25-02.44.25:404][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.08.25-02.44.25:405][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.08.25-02.44.25:477][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.08.25-02.44.25:477][  0]LogCook: Display: Mobile HDR setting 1
+[2021.08.25-02.44.25:653][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Black/Desktop/PO_ThiagoPretoLemosFigueiredo_19010133/PO_GameEngine_ThiagoPreto/Content/' took 0.02s
+[2021.08.25-02.44.25:816][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.08.25-02.44.25:819][  0]SourceControl: Source control is disabled
+[2021.08.25-02.44.25:819][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.931
+[2021.08.25-02.44.25:819][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Black/Desktop/PO_ThiagoPretoLemosFigueiredo_19010133/PO_GameEngine_ThiagoPreto/Content/PO_GameEngine_/PO_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.25-02.44.25:819][  0]LightingResults: New page: Lighting Build
+[2021.08.25-02.44.25:821][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.08.25-02.44.25:821][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.25-02.44.25:821][  0]MapCheck: New page: Map Check
+[2021.08.25-02.44.25:821][  0]LightingResults: New page: Lighting Build
+[2021.08.25-02.44.25:828][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.08.25-02.44.29:875][  0]LogTexture: Display: Building textures: 3D_Cells (BGRA8, 64X64)
+[2021.08.25-02.44.30:167][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'PO_Level'.
+[2021.08.25-02.44.30:168][  0]LogAIModule: Creating AISystem for world PO_Level
+[2021.08.25-02.44.30:200][  0]Cmd: r.LightFunctionQuality 1
+[2021.08.25-02.44.30:200][  0]r.LightFunctionQuality = "1"
+[2021.08.25-02.44.30:203][  0]LogActorComponent: Warning: SetAutoActivate called on component NiagaraComponent /Game/PO_GameEngine_/PO_Level.PO_Level:PersistentLevel.Ultra_Dynamic_Sky.Inside_Cloud_Fog after construction!
+[2021.08.25-02.44.30:203][  0]Cmd: r.LightFunctionQuality 1
+[2021.08.25-02.44.30:203][  0]r.LightFunctionQuality = "1"
+[2021.08.25-02.44.30:205][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.25-02.44.30:253][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.08.25-02.44.30:256][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.25-02.44.30:256][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.195ms to complete.
+[2021.08.25-02.44.30:256][  0]LogFileHelpers: Loading map 'PO_Level' took 4.437
+[2021.08.25-02.44.30:258][  0]LogUnrealEdMisc: Total Editor Startup Time, took 11.370
+[2021.08.25-02.44.36:805][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.25-02.44.36:810][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.25-02.44.36:816][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.25-02.44.36:821][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.25-02.44.36:838][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0098 seconds. Added 3628 classes and 872 folders.
+[2021.08.25-02.44.36:842][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.08.25-02.44.36:845][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.25-02.44.36:845][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.25-02.44.36:845][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.25-02.44.36:845][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.08.25-02.44.36:846][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.25-02.44.36:846][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.25-02.44.36:846][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.25-02.44.36:846][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.08.25-02.44.36:846][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.08.25-02.44.36:846][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.25-02.44.36:846][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.08.25-02.44.36:846][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.08.25-02.44.36:847][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.25-02.44.36:847][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.25-02.44.36:847][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.25-02.44.36:847][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.08.25-02.44.36:847][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.25-02.44.36:847][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.25-02.44.36:847][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.25-02.44.36:847][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.08.25-02.44.36:848][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.25-02.44.36:848][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.25-02.44.36:848][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.25-02.44.36:848][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.08.25-02.44.36:848][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.25-02.44.36:848][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.25-02.44.36:848][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.25-02.44.36:848][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.08.25-02.44.36:848][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.25-02.44.36:849][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.25-02.44.36:849][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.25-02.44.36:849][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.08.25-02.44.36:849][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.25-02.44.36:849][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.25-02.44.36:849][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.25-02.44.36:849][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.08.25-02.44.36:849][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.25-02.44.36:849][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.25-02.44.36:849][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.25-02.44.36:849][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.08.25-02.44.36:850][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.25-02.44.36:850][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.25-02.44.36:850][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.25-02.44.36:850][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.08.25-02.44.36:850][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.25-02.44.36:850][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.25-02.44.36:850][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.25-02.44.36:850][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.08.25-02.44.36:851][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.25-02.44.36:851][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.25-02.44.36:851][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.25-02.44.36:851][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.08.25-02.44.36:851][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.25-02.44.36:851][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.25-02.44.36:851][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.25-02.44.36:851][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.08.25-02.44.36:852][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.25-02.44.36:852][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.25-02.44.36:852][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.25-02.44.36:852][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.08.25-02.44.36:852][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.25-02.44.36:852][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.25-02.44.36:852][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.25-02.44.36:852][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.08.25-02.44.36:853][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.25-02.44.36:853][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.25-02.44.36:853][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.25-02.44.36:853][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.08.25-02.44.36:853][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.25-02.44.36:853][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.25-02.44.36:853][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.25-02.44.36:853][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.08.25-02.44.36:854][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.25-02.44.36:854][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.25-02.44.36:854][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.25-02.44.36:854][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.08.25-02.44.36:855][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.25-02.44.36:855][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.25-02.44.36:855][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.25-02.44.36:855][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.08.25-02.44.36:855][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.25-02.44.36:855][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.25-02.44.36:855][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.25-02.44.36:855][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.08.25-02.44.36:856][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.25-02.44.36:856][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.25-02.44.36:856][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.25-02.44.36:856][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.08.25-02.44.36:856][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.08.25-02.44.36:856][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.25-02.44.36:856][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.08.25-02.44.36:856][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.08.25-02.44.36:857][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.25-02.44.36:857][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.25-02.44.36:857][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.25-02.44.36:857][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.08.25-02.44.36:857][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.25-02.44.36:857][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.25-02.44.36:857][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.25-02.44.36:857][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.08.25-02.44.36:858][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.25-02.44.36:858][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.25-02.44.36:858][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.25-02.44.36:858][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.08.25-02.44.36:895][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.08.25-02.44.36:899][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.08.25-02.44.37:063][  0]LogSlate: The tab "/Game/NewEditorUtilityWidgetBlueprint.NewEditorUtilityWidgetBlueprint_ActiveTab" attempted to spawn but failed for some reason. It will not be displayed but it will still be saved in the layout settings file.
+[2021.08.25-02.44.37:095][  0]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.08.25-02.44.37:097][  0]LogSlate: Took 0.000097 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.08.25-02.44.37:100][  0]LogSlate: Took 0.000095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.08.25-02.44.37:175][  0]LogRenderer: Reallocating scene render targets to support 800x352 Format 10 NumSamples 1 (Frame:1).
+[2021.08.25-02.44.37:353][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.08.25-02.44.37:355][  0]LogLoad: (Engine Initialization) Total time: 18.47 seconds
+[2021.08.25-02.44.37:355][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.08.25-02.44.37:355][  0]LogInit: First time updating LLM stats...
+[2021.08.25-02.44.37:568][  0]LogAssetRegistry: Asset discovery search completed in 15.5069 seconds
+[2021.08.25-02.44.37:569][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.08.25-02.44.37:639][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.08.25-02.44.37:656][  0]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.25-02.44.37:693][  0]LogRenderer: Reallocating scene render targets to support 800x368 Format 10 NumSamples 1 (Frame:2).
+[2021.08.25-02.44.37:750][  2]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.25-02.44.45:680][796]LogEditorViewport: Clicking on Actor (LMB): IA_C (IA)
+[2021.08.25-02.44.46:818][920]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PO_GameEngine_/Blueprints/CharacterLogic/IA.IA
+[2021.08.25-02.44.47:000][920]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.08.25-02.44.47:956][920]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.08.25-02.44.57:479][920]LogDerivedDataCache: Warning: C:/Users/Black/AppData/Local/UnrealEngine/Common/DerivedDataCache is very slow (0.21MB/s) when accessing C:/Users/Black/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/6/TEXTURE_2D528FAD496A42E180956107C6FFBD67_AUTODXT_2D2797B445F94C671A19078ED455C__14EA91218BA67360D3A043A613E6DDDF81C5F2DC.udd, consider disabling it.
+[2021.08.25-02.44.57:479][920]LogDerivedDataCache: Warning: C:/Users/Black/AppData/Local/UnrealEngine/Common/DerivedDataCache is very slow (0.01MB/s) when accessing C:/Users/Black/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/5/TEXTURE_2D528FAD496A42E180956107C6FFBD67_AUTODXT_277ABE8F4AB38E122D8CCBA6DDDB6__9E421572D3F4C930324B6CAE3C865F8535C620DD.udd, consider disabling it.
+[2021.08.25-02.44.57:479][920]LogDerivedDataCache: Warning: C:/Users/Black/AppData/Local/UnrealEngine/Common/DerivedDataCache is very slow (0.00MB/s) when accessing C:/Users/Black/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/0/TEXTURE_2D528FAD496A42E180956107C6FFBD67_AUTODXT_922515704113D3440D7E32B1D5FDD__01E887F28D94DF8C0ACDE8222506B0807F047474.udd, consider disabling it.
+[2021.08.25-02.44.57:479][920]LogDerivedDataCache: Warning: C:/Users/Black/AppData/Local/UnrealEngine/Common/DerivedDataCache is very slow (0.00MB/s) when accessing C:/Users/Black/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/1/TEXTURE_2D528FAD496A42E180956107C6FFBD67_AUTODXT_581884A941ED27C81141D789E42AF__2765795C807BF11216C82CC12B45B4F30CC242FD.udd, consider disabling it.
+[2021.08.25-02.44.57:479][920]LogDerivedDataCache: Warning: C:/Users/Black/AppData/Local/UnrealEngine/Common/DerivedDataCache is very slow (0.00MB/s) when accessing C:/Users/Black/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/7/TEXTURE_2D528FAD496A42E180956107C6FFBD67_BC5_DABCAD26493B482FABC5E382B4BA6195___290A497350890BF483E5A27FCBD82A9276735B16.udd, consider disabling it.
+[2021.08.25-02.44.57:505][921]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.08.25-02.45.15:736][663]LogSlate: Window 'IA' being destroyed
+[2021.08.25-02.45.21:961][386]Cmd: DELETE
+[2021.08.25-02.45.21:961][386]Cmd: ACTOR DELETE
+[2021.08.25-02.45.21:970][386]LogEditorActor: Deleted Actor: IA_C
+[2021.08.25-02.45.21:999][386]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2021.08.25-02.45.22:001][386]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2021.08.25-02.45.31:667][444]LogContentBrowser: Attempting asset rename: ThirdPersonCharacter -> IA
+[2021.08.25-02.45.31:720][444]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2021.08.25-02.45.31:720][444]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2021.08.25-02.45.31:720][444]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2021.08.25-02.45.31:720][444]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2021.08.25-02.45.31:721][444]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2021.08.25-02.45.31:721][444]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2021.08.25-02.45.31:721][444]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2021.08.25-02.45.31:721][444]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2021.08.25-02.45.31:891][444]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/IA.IA_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2021.08.25-02.45.31:891][444]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/IA.SKEL_IA_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_40' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2021.08.25-02.45.31:891][444]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/IA.SKEL_IA_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_47' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2021.08.25-02.45.31:891][444]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/IA.SKEL_IA_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2021.08.25-02.45.31:891][444]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/IA.SKEL_IA_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2021.08.25-02.45.31:891][444]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/IA.SKEL_IA_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_38' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2021.08.25-02.45.31:891][444]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/IA.SKEL_IA_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_53' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2021.08.25-02.45.31:891][444]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/IA.SKEL_IA_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2021.08.25-02.45.31:891][444]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/IA.SKEL_IA_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2021.08.25-02.45.31:966][444]LogSavePackage: Moving '../../../../../../Users/Black/Desktop/PO_ThiagoPretoLemosFigueiredo_19010133/PO_GameEngine_ThiagoPreto/Saved/IA0698B1CA4F46C6121EF7C2BD58A159D9.tmp' to '../../../../../../Users/Black/Desktop/PO_ThiagoPretoLemosFigueiredo_19010133/PO_GameEngine_ThiagoPreto/Content/ThirdPersonBP/Blueprints/IA.uasset'
+[2021.08.25-02.45.32:007][444]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter'
+[2021.08.25-02.45.32:050][444]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.08.25-02.45.32:081][444]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.08.25-02.45.32:104][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.08.25-02.45.32:277][444]AssetCheck: New page: Asset Save: IA
+[2021.08.25-02.45.32:277][444]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/IA.IA
+[2021.08.25-02.45.39:298][130]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/IA.IA
+[2021.08.25-02.45.49:282][ 97]BlueprintLog: New page: Compile IA
+[2021.08.25-02.45.49:288][ 97]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Could not find a variable named "Audio" in 'IA_C'.
+Make sure 'IA_C' has been compiled for  Get Audio
+[2021.08.25-02.45.49:288][ 97]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Could not find a variable named "Can_See_Enemy?" in 'IA_C'.
+Make sure 'IA_C' has been compiled for  Set Can_See_Enemy?
+[2021.08.25-02.45.49:289][ 97]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Could not find a variable named "Can_See_Enemy?" in 'IA_C'.
+Make sure 'IA_C' has been compiled for  Set Can_See_Enemy?
+[2021.08.25-02.45.49:289][ 97]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] On See Pawn (PawnSensing)  does not have a valid matching component!
+[2021.08.25-02.45.49:289][ 97]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2021.08.25-02.45.49:289][ 97]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2021.08.25-02.45.49:289][ 97]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2021.08.25-02.45.49:290][ 97]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2021.08.25-02.45.49:290][ 97]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2021.08.25-02.45.49:290][ 97]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2021.08.25-02.45.49:290][ 97]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2021.08.25-02.45.49:291][ 97]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2021.08.25-02.45.49:292][ 97]LogBlueprint: Error: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] The property associated with  Can See Enemy?  could not be found in '/Game/ThirdPersonBP/Blueprints/IA.IA_C'
+[2021.08.25-02.45.49:292][ 97]LogBlueprint: Error: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] The property associated with  Can See Enemy?  could not be found in '/Game/ThirdPersonBP/Blueprints/IA.IA_C'
+[2021.08.25-02.45.49:292][ 97]LogBlueprint: Error: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] The property associated with  Audio  could not be found in '/Game/ThirdPersonBP/Blueprints/IA.IA_C'
+[2021.08.25-02.45.49:434][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2021.08.25-02.46.06:775][970]BlueprintLog: New page: Compile IA
+[2021.08.25-02.46.06:781][970]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Could not find a variable named "Audio" in 'IA_C'.
+Make sure 'IA_C' has been compiled for  Get Audio
+[2021.08.25-02.46.06:781][970]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Could not find a variable named "Can_See_Enemy?" in 'IA_C'.
+Make sure 'IA_C' has been compiled for  Set Can_See_Enemy?
+[2021.08.25-02.46.06:781][970]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Could not find a variable named "Can_See_Enemy?" in 'IA_C'.
+Make sure 'IA_C' has been compiled for  Set Can_See_Enemy?
+[2021.08.25-02.46.06:782][970]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2021.08.25-02.46.06:782][970]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2021.08.25-02.46.06:782][970]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2021.08.25-02.46.06:782][970]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2021.08.25-02.46.06:783][970]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2021.08.25-02.46.06:783][970]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2021.08.25-02.46.06:783][970]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2021.08.25-02.46.06:783][970]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2021.08.25-02.46.06:785][970]LogBlueprint: Error: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] The property associated with  Can See Enemy?  could not be found in '/Game/ThirdPersonBP/Blueprints/IA.IA_C'
+[2021.08.25-02.46.06:785][970]LogBlueprint: Error: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] The property associated with  Can See Enemy?  could not be found in '/Game/ThirdPersonBP/Blueprints/IA.IA_C'
+[2021.08.25-02.46.06:785][970]LogBlueprint: Error: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] The property associated with  Audio  could not be found in '/Game/ThirdPersonBP/Blueprints/IA.IA_C'
+[2021.08.25-02.46.06:917][970]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2021.08.25-02.46.24:127][646]BlueprintLog: New page: Compile IA
+[2021.08.25-02.46.24:226][646]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2021.08.25-02.46.25:858][783]BlueprintLog: New page: Compile IA
+[2021.08.25-02.46.25:864][783]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Could not find a variable named "Audio" in 'IA_C'.
+Make sure 'IA_C' has been compiled for  Get Audio
+[2021.08.25-02.46.25:864][783]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Could not find a variable named "Can_See_Enemy?" in 'IA_C'.
+Make sure 'IA_C' has been compiled for  Set Can_See_Enemy?
+[2021.08.25-02.46.25:864][783]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Could not find a variable named "Can_See_Enemy?" in 'IA_C'.
+Make sure 'IA_C' has been compiled for  Set Can_See_Enemy?
+[2021.08.25-02.46.25:865][783]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2021.08.25-02.46.25:865][783]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2021.08.25-02.46.25:865][783]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2021.08.25-02.46.25:866][783]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2021.08.25-02.46.25:866][783]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2021.08.25-02.46.25:866][783]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2021.08.25-02.46.25:866][783]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2021.08.25-02.46.25:867][783]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2021.08.25-02.46.25:868][783]LogBlueprint: Error: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] The property associated with  Can See Enemy?  could not be found in '/Game/ThirdPersonBP/Blueprints/IA.IA_C'
+[2021.08.25-02.46.25:869][783]LogBlueprint: Error: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] The property associated with  Can See Enemy?  could not be found in '/Game/ThirdPersonBP/Blueprints/IA.IA_C'
+[2021.08.25-02.46.25:869][783]LogBlueprint: Error: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] The property associated with  Audio  could not be found in '/Game/ThirdPersonBP/Blueprints/IA.IA_C'
+[2021.08.25-02.46.26:000][783]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2021.08.25-02.46.40:501][388]BlueprintLog: New page: Compile IA
+[2021.08.25-02.46.40:507][388]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Could not find a variable named "Audio" in 'IA_C'.
+Make sure 'IA_C' has been compiled for  Get Audio
+[2021.08.25-02.46.40:507][388]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Could not find a variable named "Can_See_Enemy?" in 'IA_C'.
+Make sure 'IA_C' has been compiled for  Set Can_See_Enemy?
+[2021.08.25-02.46.40:507][388]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Could not find a variable named "Can_See_Enemy?" in 'IA_C'.
+Make sure 'IA_C' has been compiled for  Set Can_See_Enemy?
+[2021.08.25-02.46.40:508][388]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2021.08.25-02.46.40:508][388]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2021.08.25-02.46.40:508][388]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2021.08.25-02.46.40:509][388]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2021.08.25-02.46.40:509][388]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2021.08.25-02.46.40:509][388]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2021.08.25-02.46.40:509][388]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2021.08.25-02.46.40:509][388]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2021.08.25-02.46.40:511][388]LogBlueprint: Error: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] The property associated with  Can See Enemy?  could not be found in '/Game/ThirdPersonBP/Blueprints/IA.IA_C'
+[2021.08.25-02.46.40:511][388]LogBlueprint: Error: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] The property associated with  Can See Enemy?  could not be found in '/Game/ThirdPersonBP/Blueprints/IA.IA_C'
+[2021.08.25-02.46.40:511][388]LogBlueprint: Error: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] The property associated with  Audio  could not be found in '/Game/ThirdPersonBP/Blueprints/IA.IA_C'
+[2021.08.25-02.46.40:647][388]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2021.08.25-02.46.52:509][539]BlueprintLog: New page: Compile IA
+[2021.08.25-02.46.52:607][539]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.08.25-02.47.07:395][140]LogSlate: Took 0.024136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.08.25-02.47.30:009][ 89]LogSlate: Window 'Change Variable Type' being destroyed
+[2021.08.25-02.47.34:268][379]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.08.25-02.47.34:271][379]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.08.25-02.48.06:006][670]BlueprintLog: New page: Compile IA
+[2021.08.25-02.48.06:027][670]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Could not find a variable named "Can_See_Enemy?" in 'IA_C'.
+Make sure 'IA_C' has been compiled for  Set Can_See_Enemy?
+[2021.08.25-02.48.06:028][670]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Could not find a variable named "Can_See_Enemy?" in 'IA_C'.
+Make sure 'IA_C' has been compiled for  Set Can_See_Enemy?
+[2021.08.25-02.48.06:028][670]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2021.08.25-02.48.06:028][670]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2021.08.25-02.48.06:028][670]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2021.08.25-02.48.06:029][670]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2021.08.25-02.48.06:029][670]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2021.08.25-02.48.06:029][670]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2021.08.25-02.48.06:029][670]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2021.08.25-02.48.06:029][670]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2021.08.25-02.48.06:030][670]LogBlueprint: Error: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] This blueprint (self) is not a AudioComponent, therefore ' Target ' must have a connection.
+[2021.08.25-02.48.06:031][670]LogBlueprint: Error: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] The property associated with  Can See Enemy?  could not be found in '/Game/ThirdPersonBP/Blueprints/IA.IA_C'
+[2021.08.25-02.48.06:031][670]LogBlueprint: Error: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] The property associated with  Can See Enemy?  could not be found in '/Game/ThirdPersonBP/Blueprints/IA.IA_C'
+[2021.08.25-02.48.06:171][670]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2021.08.25-02.48.50:386][484]BlueprintLog: New page: Compile IA
+[2021.08.25-02.48.50:391][484]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Could not find a variable named "Can_See_Enemy?" in 'IA_C'.
+Make sure 'IA_C' has been compiled for  Set Can_See_Enemy?
+[2021.08.25-02.48.50:392][484]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Could not find a variable named "Can_See_Enemy?" in 'IA_C'.
+Make sure 'IA_C' has been compiled for  Set Can_See_Enemy?
+[2021.08.25-02.48.50:392][484]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2021.08.25-02.48.50:392][484]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2021.08.25-02.48.50:392][484]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2021.08.25-02.48.50:393][484]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2021.08.25-02.48.50:393][484]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2021.08.25-02.48.50:393][484]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2021.08.25-02.48.50:393][484]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2021.08.25-02.48.50:393][484]LogBlueprint: Warning: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2021.08.25-02.48.50:394][484]LogBlueprint: Error: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] This blueprint (self) is not a AudioComponent, therefore ' Target ' must have a connection.
+[2021.08.25-02.48.50:396][484]LogBlueprint: Error: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] The property associated with  Can See Enemy?  could not be found in '/Game/ThirdPersonBP/Blueprints/IA.IA_C'
+[2021.08.25-02.48.50:396][484]LogBlueprint: Error: [AssetLog] C:\Users\Black\Desktop\PO_ThiagoPretoLemosFigueiredo_19010133\PO_GameEngine_ThiagoPreto\Content\ThirdPersonBP\Blueprints\IA.uasset: [Compiler] The property associated with  Can See Enemy?  could not be found in '/Game/ThirdPersonBP/Blueprints/IA.IA_C'
+[2021.08.25-02.48.50:527][484]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2021.08.25-02.50.02:924][243]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.08.25-02.50.04:875][243]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.950 s
+[2021.08.25-02.50.04:884][243]LogOutputDevice: Error: === Handled ensure: ===
+[2021.08.25-02.50.04:884][243]LogOutputDevice: Error: 
+[2021.08.25-02.50.04:884][243]LogOutputDevice: Error: Ensure condition failed: !bGraphDataInvalid [File:D:/Build/++UE4/Sync/Engine/Source/Editor/GraphEditor/Private/SGraphPin.cpp] [Line: 821]
+[2021.08.25-02.50.04:884][243]LogOutputDevice: Error: The Graph Pin Object has been invalidate. Someone is keeping a hard ref on the SGraphPin. See InvalidateGraphData for more info
+[2021.08.25-02.50.04:884][243]LogOutputDevice: Error: Stack: 
+[2021.08.25-02.50.04:884][243]LogOutputDevice: Error: [Callstack] 0x00007ffb9ee9d149 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.08.25-02.50.04:884][243]LogOutputDevice: Error: [Callstack] 0x00007ffb9ed42141 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.08.25-02.50.04:884][243]LogOutputDevice: Error: [Callstack] 0x00007ffb9ed40db8 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.08.25-02.50.04:884][243]LogOutputDevice: Error: [Callstack] 0x00007ffb9ed4e88c UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.08.25-02.50.04:884][243]LogOutputDevice: Error: [Callstack] 0x00007ffb9edc6b8c UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.08.25-02.50.04:884][243]LogOutputDevice: Error: [Callstack] 0x00007ffb9edc4089 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.08.25-02.50.04:884][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf26d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:884][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf24a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf26d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf23dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf26d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbab50fc19 UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf26d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf23dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf26d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf23dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbab50faa4 UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf26d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf24a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf26d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf27748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf24beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf26d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf23dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf26d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf27748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbab511ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf26d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf23dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf26d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf27748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbab511ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf26d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf24a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf26d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf23dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf26d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf27748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf24beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf26d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf23dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf26d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf23dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbab50faa4 UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf26d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf24a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf26d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf27748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf24beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf26d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf23dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf26d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf27748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbab511ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf26d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf24a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf26d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf23dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf26d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf27748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf24beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf26d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf27748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf24beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf26d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf24a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf26d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf23dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf26d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf27857 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaae5252a UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbaaf27aec UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbab2d977e UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbab30b93e UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbab2da0d7 UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbab331e57 UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbab331659 UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ff6d2f8ae49 UE4Editor.exe!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ff6d2fa117c UE4Editor.exe!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ff6d2fa125a UE4Editor.exe!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ff6d2fb52bd UE4Editor.exe!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ff6d2fb7fea UE4Editor.exe!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbf23b7034 KERNEL32.DLL!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: [Callstack] 0x00007ffbf2f02651 ntdll.dll!UnknownFunction []
+[2021.08.25-02.50.04:885][243]LogOutputDevice: Error: 
